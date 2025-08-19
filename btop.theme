@@ -4,7 +4,7 @@
 # https://github.com/tahayvr
 # ────────────────────────────────────────────────────────────
 
-# Colors should be in 6 or 2 character hexadecimal or single spaced rgb decimal: "#RRGGBB", "#BW" or "0-255 0-255 0-255"
+# Colors should be in 6 or 2 chara9a9a9acter hexadecimal or single spaced rgb decimal: "#RRGGBB", "#BW" or "0-255 0-255 0-255"
 # example for white: "#ffffff", "#ff" or "255 255 255".
 
 # All graphs and meters can be gradients
@@ -19,13 +19,13 @@ theme[main_bg]=""
 theme[main_fg]="#EAEAEA"
 
 # Title color for boxes
-theme[title]="#8a8a8d"
+theme[title]="#a9a9a9"
 
 # Highlight color for keyboard shortcuts
-theme[hi_fg]="#f59e0b"
+theme[hi_fg]="#cf9271"
 
 # Background color of selected item in processes box
-theme[selected_bg]="#f59e0b"
+theme[selected_bg]="#cf9271"
 
 # Foreground color of selected item in processes box
 theme[selected_fg]="#EAEAEA"
@@ -34,59 +34,59 @@ theme[selected_fg]="#EAEAEA"
 theme[inactive_fg]="#333333"
 
 # Misc colors for processes box including mini cpu graphs, details memory graph and details status text
-theme[proc_misc]="#8a8a8d"
+theme[proc_misc]="#a9a9a9"
 
 # Cpu box outline color
-theme[cpu_box]="#8a8a8d"
+theme[cpu_box]="#a9a9a9"
 
 # Memory/disks box outline color
-theme[mem_box]="#8a8a8d"
+theme[mem_box]="#a9a9a9"
 
 # Net up/down box outline color
-theme[net_box]="#8a8a8d"
+theme[net_box]="#a9a9a9"
 
 # Processes box outline color
-theme[proc_box]="#8a8a8d"
-
+theme[proc_box]="#a9a9a9"
+c
 # Box divider line and small boxes line color
-theme[div_line]="#8a8a8d"
+theme[div_line]="#a9a9a9"
 
 # Temperature graph colors
-theme[temp_start]="#8a8a8d"
-theme[temp_mid]="#f59e0b"
-theme[temp_end]="#b91c1c"
+theme[temp_start]="#a9a9a9"
+theme[temp_mid]="#cf9271"
+theme[temp_end]="#cf7171"
 
 # CPU graph colors
-theme[cpu_start]="#8a8a8d"
-theme[cpu_mid]="#f59e0b"
-theme[cpu_end]="#b91c1c"
+theme[cpu_start]="#a9a9a9"
+theme[cpu_mid]="#cf9271"
+theme[cpu_end]="#cf7171"
 
 # Mem/Disk free meter
-theme[free_start]="#8a8a8d"
-theme[free_mid]="#f59e0b"
-theme[free_end]="#b91c1c"
+theme[free_start]="#a9a9a9"
+theme[free_mid]="#cf9271"
+theme[free_end]="#cf7171"
 
 # Mem/Disk cached meter
-theme[cached_start]="#8a8a8d"
-theme[cached_mid]="#f59e0b"
-theme[cached_end]="#b91c1c"
+theme[cached_start]="#a9a9a9"
+theme[cached_mid]="#cf9271"
+theme[cached_end]="#cf7171"
 
 # Mem/Disk available meter
-theme[available_start]="#8a8a8d"
-theme[available_mid]="#f59e0b"
-theme[available_end]="#b91c1c"
+theme[available_start]="#a9a9a9"
+theme[available_mid]="#cf9271"
+theme[available_end]="#cf7171"
 
 # Mem/Disk used meter
-theme[used_start]="#8a8a8d"
-theme[used_mid]="#f59e0b"
-theme[used_end]="#b91c1c"
+theme[used_start]="#a9a9a9"
+theme[used_mid]="#cf9271"
+theme[used_end]="#cf7171"
 
 # Download graph colors
-theme[download_start]="#8a8a8d"
-theme[download_mid]="#f59e0b"
-theme[download_end]="#b91c1c"
+theme[download_start]="#a9a9a9"
+theme[download_mid]="#cf9271"
+theme[download_end]="#cf7171"
 
 # Upload graph colors
-theme[upload_start]="#8a8a8d"
-theme[upload_mid]="#f59e0b"
-theme[upload_end]="#b91c1c"
+theme[upload_start]="#a9a9a9"
+theme[upload_mid]="#cf9271"
+theme[upload_end]="#cf7171"

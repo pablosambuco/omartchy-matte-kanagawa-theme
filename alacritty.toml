@@ -1,7 +1,9 @@
 # ────────────────────────────────────────────────────────────
-# Omarchy Matte Black Theme for Alacritty
-# By tahayvr
-# https://github.com/tahayvr
+# Omarchy Matte Kanagawa Theme for Alacritty
+# By pablosambuco 
+# https=//github.com/pablosambuco
+#
+# Adapted from Matte Black by Tahayvr, with some inpiration from Kanagawa theme
 # ────────────────────────────────────────────────────────────
 
 [window]
@@ -12,42 +14,40 @@ padding.y = 12
 [font]
 size = 12.0
 
-
-
-[colors]
 [colors.primary]
-background = "#121212"
-foreground = "#bebebe"
-dim_foreground = "#8a8a8d"
-
-[colors.cursor]
-text = "#121212"
-cursor = "#eaeaea"
-
-[colors.vi_mode_cursor]
-text = "#121212"
-cursor = "#eaeaea"
-
-[colors.selection]
-text = "CellForeground"
-background = "#333333"
-
+background= '#0b0912'
+foreground= '#e2e2e2'
+  
 [colors.normal]
-black = "#333333"
-red = "#D35F5F"
-green = "#FFC107"
-yellow = "#b91c1c"
-blue = "#e68e0d"
-magenta = "#D35F5F"
-cyan = "#bebebe"
-white = "#bebebe"
+black=   '#0b0912'
+red=     '#cf7171'
+green=   '#70cf8e'
+yellow=  '#cf9271'
+blue=    '#3673a2'
+magenta= '#a261b4'
+cyan=    '#62b2c9'
+white=   '#a9a9a9'
 
 [colors.bright]
-black = "#8a8a8d"
-red = "#B91C1C"
-green = "#FFC107"
-yellow = "#b90a0a"
-blue = "#f59e0b"
-magenta = "#B91C1C"
-cyan = "#eaeaea"
-white = "#ffffff"
+black=   '#0b0912'
+red=     '#dc9797'
+green=   '#96dcac'
+yellow=  '#dcaf97'
+blue=    '#498ec2'
+magenta= '#b684c4'
+cyan=    '#88c5d6'
+white=   '#c3c3c3'
+
+[colors.selection]
+background = '#1f3342'
+foreground = '#dfd6a4'
+
+[[colors.indexed_colors]]
+index = 16
+color = '#b6927b'
+
+[[colors.indexed_colors]]
+index = 17
+color = '#b98d7b'
+
+
